@@ -6,13 +6,10 @@ body {
 }
 
 t1 {
+	text-align: center;
 	font-size: 24pt;
 	color: MidnightBLue;
-	border-top-style: dotted;
-	border-right-style: solid;
-	border-bottom-style: dotted;
-	border-left-style: solid;
+	border-style: dotted;
 	border-color: MidnightBlue;
 	border-width: 5px;
-	text-align: center;
 }
