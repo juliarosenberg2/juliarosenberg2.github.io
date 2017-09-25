@@ -5,12 +5,8 @@ body {
 	color: MidnightBlue;
 }
 
-h1 {
+t1 {
 	text-align: center;
 	font-size: 24pt;
 	color: MidnightBLue;
-	<!-- border-style: dotted;
-	border-color: MidnightBlue;
-	border-width: 5px;
-	-->
 }
