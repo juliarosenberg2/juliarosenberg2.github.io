@@ -1,6 +1,6 @@
 body {
 	font-family: "Arial", "Helvetica", sans-serif;
-	font-size: 12pt;
+	font-size: 16pt;
 	background-color: AliceBlue;
 	color: MidnightBlue;
 }
@@ -9,7 +9,8 @@ t1 {
 	text-align: center;
 	font-size: 24pt;
 	color: MidnightBLue;
-	border-style: dotted;
+	<!-- border-style: dotted;
 	border-color: MidnightBlue;
 	border-width: 5px;
+	-->
 }
